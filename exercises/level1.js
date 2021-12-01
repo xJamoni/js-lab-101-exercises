@@ -1,5 +1,5 @@
 function lvl1exercise1 () {
-  // Declare a variable without instantiating it and return it!
+  // Declare a variable as null and return it!
 
 }
 

@@ -1,5 +1,5 @@
 function lvl3exercise1 () {
-  // Create a "hello" and a "world", return the concatenation of the two
+  // Create strings "hello" and a "world", return the concatenation of the two
 
 }
 
