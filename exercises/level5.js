@@ -14,6 +14,6 @@ function lvl5exercise3 () {
 }
 
 function lvl5exercise4 () {
-  // Return the item "adam" in the array
+  // Return the index of item "adam" in the array
   var arr = [1, 'adam']
 }
