@@ -1,5 +1,6 @@
 function lvl2exercise1 (num1, num2) {
   // Return the sum of num1 and num2
+  `const sum = 1 + 2`
 
 }
 

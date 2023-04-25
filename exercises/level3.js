@@ -1,5 +1,8 @@
 function lvl3exercise1 () {
   // Create strings "hello" and a "world", return the concatenation of the two
+  const hello = "hello";
+  const world = "world";
+  return hello + world;
 
 }
 
@@ -10,6 +13,9 @@ function lvl3exercise2 () {
 
 function lvl3exercise3 () {
   // Create a variable that equals 12 and convert it to a string with concatenation. Return it.
+  const number = 12;
+  const stringy = "";
+  return number + stringy
 
 }
 
